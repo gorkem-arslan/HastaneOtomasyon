@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gorke\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gorke\\.nuget\\packages"
+    ]
+  }
+}
